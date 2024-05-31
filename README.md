@@ -1,10 +1,11 @@
-### This project contains five small js projects that are used to practice with javascript development and testing purposes.
+###  Five small javascript projects
+that are used to practice with javascript development and testing purposes.
 
-### 1. Color Flipper
-### 2. Palindrome Checker
-### 3. Random Quote Generator
-### 4. Stop Watch
-### 5. TODO List
+1. Color Flipper
+2. Palindrome Checker
+3. Random Quote Generator
+4. Stop Watch
+5. TODO List
 
 
 Working on those JavaScript projects helped me understand JavaScript better in several ways:
