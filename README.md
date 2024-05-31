@@ -1,4 +1,4 @@
-# This project contains five small js projects that are used to practice with javascript development and testing purposes.
+### This project contains five small js projects that are used to practice with javascript development and testing purposes.
 
 ### 1. Color Flipper
 ### 2. Palindrome Checker
